@@ -1,0 +1,28 @@
+.banana {
+  background-color: yellow;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.apple {
+  background-color: green;
+}
+
+.grape {
+  background-color: indigo;
+}
+
+.peach {
+  background-color: burlywood;
+}
+
+ul {
+  max-width: 20%;
+}
+
+li {
+  padding: 5px;
+  border-radius: 8px;
+}

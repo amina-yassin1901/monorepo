@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #add8e6;
+  margin-left: 8px;
+  font-family: var(--font-family);
+  color: #000;
+  max-width: 1160px;
+  margin-top: 50px;
+}
+
+.box {
+  background-color: #0ff;
+  margin-bottom: 16px;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.second-title {
+  font-weight: 700;
+  font-size: 19px;
+  margin-bottom: 16px;
+}
+
+.box-title {
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.box-text {
+  font-weight: 400;
+  font-size: 16px;
+}

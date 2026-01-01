@@ -1,0 +1,20 @@
+.title {
+  color: blueviolet;
+  font-size: 48px;
+}
+
+.info {
+  font-size: 22px;
+}
+
+.document {
+  color: green;
+}
+
+.data {
+  color: blue;
+}
+
+#title {
+  color: aqua;
+}
